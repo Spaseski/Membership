@@ -1,0 +1,28 @@
+{
+  "name": "membership",
+  "version": "1.0.0",
+  "description": "Membership module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spaseski/Membership.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "membership",
+    "node"
+  ],
+  "author": "Aleksandar Spaseski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Spaseski/Membership/issues"
+  },
+  "homepage": "https://github.com/Spaseski/Membership#readme",
+  "devDependencies": {
+    "jshint": "^2.9.5",
+    "should": "^13.1.3"
+  }
+}
