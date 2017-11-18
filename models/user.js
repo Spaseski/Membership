@@ -1,5 +1,5 @@
 var assert = require('assert');
-var utilities = require('../lib/utilities')
+var utilities = require('../lib/utilities');
 
 //Constructor pattern
 var User = function(args) {
